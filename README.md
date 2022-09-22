@@ -14,4 +14,5 @@ The app grabs the data from an API database (JSON response) for all the anime an
 
 # Developer
 Albert E (vradnisntlong@gmail.com)
+
 All rights reserved.
